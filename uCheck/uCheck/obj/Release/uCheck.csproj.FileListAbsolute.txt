@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\bin\Release\uCheck.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\bin\Release\uCheck.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\bin\Release\uCheck.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\obj\Release\uCheck.frmMain.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\obj\Release\uCheck.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\obj\Release\uCheck.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\obj\Release\uCheck.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\uCheck\uCheck\obj\Release\uCheck.pdb
